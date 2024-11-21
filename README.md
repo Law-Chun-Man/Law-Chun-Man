@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Law-Chun-Man
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning how to code
 - ⚡ Fun fact: C++ is gay, because the namespace is literally std
 
 <!---
