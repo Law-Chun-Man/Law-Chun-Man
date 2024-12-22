@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Law-Chun-Man.
 - 👀 I’m interested in physics.
 - 🌱 I’m currently learning how to code.
-- ⚡ Fun fact: Rust is faster than C in finding prime number.
+- ⚡ Fun fact: My 'last name' is placed in front of my given name.
 
 <!---
 Law-Chun-Man/Law-Chun-Man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
