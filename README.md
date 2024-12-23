@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Law-Chun-Man.
 - 👀 I’m interested in physics.
-- 🌱 I’m currently trying to learn coding.
+- 🌱 I’m currently trying to learn rust.
 - ⚡ Fun fact: My 'last name' is placed in front of my given name.
 
 <!---
